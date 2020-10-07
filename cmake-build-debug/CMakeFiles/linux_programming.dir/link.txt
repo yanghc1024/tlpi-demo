@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/linux_programming.dir/main.c.o CMakeFiles/linux_programming.dir/lib/error_functions.c.o CMakeFiles/linux_programming.dir/lib/get_num.c.o CMakeFiles/linux_programming.dir/example/va_list.c.o  -o linux_programming 

@@ -1,0 +1,3 @@
+/Users/yanghuichen/clion_workspace/tlpi-demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yanghuichen/clion_workspace/tlpi-demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yanghuichen/clion_workspace/tlpi-demo/cmake-build-debug/CMakeFiles/linux_programming.dir
